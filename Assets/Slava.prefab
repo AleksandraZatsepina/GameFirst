@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6655474437339885606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6655474437339885600}
+  - component: {fileID: 6655474437339885607}
+  m_Layer: 0
+  m_Name: Slava
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6655474437339885600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6655474437339885606}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6655474437339885607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6655474437339885606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: "\u042F\u0440\u0438\u043A"
+  nameColor: {r: 0.08021711, g: 0.4528302, b: 0.057147883, a: 1}
+  soundEffect: {fileID: 8300000, guid: 14a396b1562834718b2d52b9c4639264, type: 3}
+  portraits:
+  - {fileID: 21300000, guid: 18d97cd6c5f16614b9a4fef57acd9245, type: 3}
+  - {fileID: 21300000, guid: c6e6b7bdf7a1c5e4f987f957ca134ad0, type: 3}
+  - {fileID: 21300000, guid: 9746e71974cf71e4fadaa91133649027, type: 3}
+  - {fileID: 21300000, guid: edf8c9f3a8587694996d57f1f9c7f4af, type: 3}
+  - {fileID: 21300000, guid: 47ae90de295c55740a60e9f6802bc863, type: 3}
+  - {fileID: 21300000, guid: 4f52b27c04cd453409b9c800ae127063, type: 3}
+  - {fileID: 21300000, guid: 1698652e30a96b34b81cb8a9a8c26710, type: 3}
+  - {fileID: 21300000, guid: b1057b50470845648abddb750bd7e856, type: 3}
+  - {fileID: 21300000, guid: 277b24922fd087345a52d735a3620b88, type: 3}
+  - {fileID: 21300000, guid: 1853ae127baf55d46ad2de6a58684ee4, type: 3}
+  - {fileID: 21300000, guid: ce53fb69a0b8b4240a7410a17dd497f6, type: 3}
+  - {fileID: 21300000, guid: cba46a07e4f6d9f47b86332ac1cada94, type: 3}
+  - {fileID: 21300000, guid: 5595cd3684843dc488fe643e5440fa5b, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
